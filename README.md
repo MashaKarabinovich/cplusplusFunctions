@@ -3,6 +3,7 @@
 Hi there and welcome to some more practices. 
 
 This is a problem based on functions from HackerRank for C++, the file can be open with visual studio code or run over on hackerrank. 
+-----
 
 
 Functions are a bunch of statements glued together. A function is provided with zero or more arguments, and it executes the statements on it. Based on the return type, it either returns nothing (void) or something.
